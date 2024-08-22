@@ -1,0 +1,16 @@
+Project Description
+-------------------------------------------------------------------------------------
+Many claims require regular publishes on the Reserving Tool, so we need to develop a
+procedure that will:
+1. Identify which claims require regular publishes on the Reserving Tool
+2. Calculate how many days left the current examiner has to complete a publish, or if the
+publish is late, how many days a publish is overdue
+3. Display key information related to these claims including the calculated fields in step 2
+4. Accept parameters allowing users to see results for specific situations
+The final query should filter out the claims that don’t require a publish, and should display the
+required fields that will give us the information requested for this project
+
+Each of the above steps is commented in the code 
+
+Database Used: 
+Insurance - Created by Brandon Brown
